@@ -7,54 +7,73 @@ include_in_header: true
 **Last updated**
 August 1 2019
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+**Last updated**
+August 1 2019
 
-<br>
+# Amer App End User License Agreement
+This End User License Agreement (“Agreement”) is between you and
+Amer and governs use of this app made available through the Apple App Store. By installing the
+Amer App, you agree to be bound by this Agreement and understand that there is no tolerance for objectionable
+content. If you do not agree with the terms and conditions of this Agreement, you are not entitled to use the
+Amer App.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
-
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
-
-### 1.2 Information you provide to us
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+**Please note:** In order to ensure Amer provides the best experience possible for everyone, we strongly enforce a no tolerance policy for objectionable content.
 
 <br>
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 1. Parties
+This Agreement is between you and Amer only, and not Apple, Inc. (“Apple”). Notwithstanding the foregoing, you acknowledge that Apple and its subsidiaries are third party beneficiaries of this Agreement and Apple has the right to enforce this Agreement against you. Amer, not Apple, is solely responsible for the Amer App and its content.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## 2. Privacy
+Amer may collect and use information about your usage of the
+Amer App, including certain types of information from and about your device.
+Amer may use this information, as long as it is in a form that does not personally identify you, to measure the use and performance of the Amer App.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## 3. Limited License
+Amer grants you a limited, non-exclusive, non-transferable, revocable license to use the
+Amer App for your personal, non-commercial purposes. You may only use the
+Amer App on Apple devices that you own or control and as permitted by the App Store Terms of Service.
 
-<br>
+## 4. Age Restrictions
+By using the Amer App, you represent and warrant that (a) you are 17 years of age or older and you agree to be bound by this Agreement; (b) if you are under 17 years of age, you have obtained verifiable consent from a parent or legal guardian; and (c ) your use of the Amer App does not violate any applicable law or regulation. Your access to the Amer App may be terminated without warning if Amer believes, in its sole discretion, that you are under the age of 17 years and have not obtained verifiable consent from a parent or legal guardian. If you are a parent or legal guardian and you provide your consent to your child's use of the Amer App, you agree to be bound by this Agreement in respect to your child's use of the Amer App.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 5. Objectionable Content
+Policy Content may not be submitted to Amer, who will moderate all content and ultimately decide whether or not to post a submission to the extent
+such content includes, is in conjunction with, or alongside any, Objectionable Content. Objectionable Content includes,
+but is not limited to: (i) sexually explicit materials; (ii) obscene, defamatory, libelous, slanderous, violent and/or
+unlawful content or profanity; (iii) content that infringes upon the rights of any third party, including copyright,
+trademark, privacy, publicity or other personal or proprietary right, or that is deceptive or fraudulent; (iv) content
+that promotes the use or sale of illegal or regulated substances, tobacco products, ammunition and/or firearms; and (v)
+gambling, including without limitation, any online casino, sports books, bingo or poker.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 6. Warranty
+Amer disclaims all warranties about the
+Amer App to the fullest extent permitted by law. To the extent any warranty exists under law that cannot be
+disclaimed,
+Amer, not Apple, shall be solely responsible for such warranty.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## 7. Maintenance and Support
+Amer does provide minimal maintenance or support for it but not to the extent that any maintenance or support
+is required by applicable law,
+Amer, not Apple, shall be obligated to furnish any such maintenance or support.
 
-<br>
+## 8. Product Claims
+Amer, not Apple, is responsible for addressing any claims by you relating to the
+Amer App or use of it, including, but not limited to: (i) any product liability claim; (ii) any claim that
+the
+Amer App fails to conform to any applicable legal or regulatory requirement; and (iii) any claim arising under
+consumer protection or similar legislation. Nothing in this Agreement shall be deemed an admission that you may have
+such claims.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 9. Third Party Intellectual Property Claims
+Amer shall not be obligated to indemnify or defend you with respect to any third party claim arising out or
+relating to the
+Amer App. To the extent
+Amer is required to provide indemnification by applicable law,
+Amer, not Apple, shall be solely responsible for the investigation, defense, settlement and discharge of any
+claim that the
+Amer App or your use of it infringes any third party intellectual property right.
 
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 10. Change of Terms & Conditions
+The following policies are intended as guidelines only and are subject to change at the sole discretion of Amer.
