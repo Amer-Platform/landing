@@ -7,10 +7,6 @@ include_in_header: true
 **Last updated**
 August 1 2019
 
-
-**Last updated**
-August 1 2019
-
 # Amer App End User License Agreement
 This End User License Agreement (“Agreement”) is between you and
 Amer and governs use of this app made available through the Apple App Store. By installing the
