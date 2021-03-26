@@ -1,8 +1,13 @@
 // Layout and grids
 $content-width: 1170px;
 
+@font-face {
+	font-family: 'Almarai', sans-serif;
+	src: url('https://fonts.googleapis.com/css2?family=Almarai&display=swap');
+}
+
 // Fonts and sizes
-$font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font: 'Almarai', BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $primary-text-color: #000000;
 
 html {
