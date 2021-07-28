@@ -1,6 +1,6 @@
 ---
 title: تواصل معنا
-include_in_header: false
+include_in_header: true
 ---
 
 <!DOCTYPE html>
@@ -52,14 +52,19 @@ include_in_header: false
 
     var Tawk_API= Tawk_API || {};
 
-    Tawk_API.visitor = {
-        name: 'sss'
-    };
+    Tawk_API.visitor = {};
 
     var attributes = {};
     if (params.name) {
         attributes.name = params.name;
         Tawk_API.visitor.name = params.name;
+    }
+		if (params.email) {
+        attributes.email = params.email;
+        Tawk_API.visitor.email = params.email;
+    }
+		if (params.phone) {
+        attributes.phone = params.phone;
     }
 
     Tawk_API.onLoad = function(){
