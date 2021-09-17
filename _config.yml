@@ -7,7 +7,7 @@ page_title                                : آمر                              
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             : https://apps.apple.com/es/app/amer-%D8%A2%D9%85%D8%B1/id1571065206?ign-mpt=uo%3D2                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : link                                          # Enter Google Play Store URL.
+# playstore_link                            : link                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
